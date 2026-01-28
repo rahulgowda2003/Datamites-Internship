@@ -89,4 +89,4 @@ BI dashboards support strategic business decisions
 ### Report Snapshot (Power BI)
 
 
-![Dashboard_upload]()
+![Dashboard_upload](https://github.com/rahulgowda2003/Datamites-Internship/blob/main/Profit%20Analysis%20Screenshot.png)
